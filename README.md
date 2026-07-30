@@ -69,6 +69,20 @@ machine learning, and systems security.
 `Byzantine Fault Tolerance` · `gRPC` · `Protocol Buffers` · `Compilers` ·
 `Network Security` · `Docker` · `GNS3` · `NLP` · `Multi-Agent Systems`
 
+## GitHub Language Overview
+
+<p align="center">
+  <a href="https://github.com/jorgeflmendes?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeflmendes&amp;theme=transparent" alt="Language distribution by repository" width="49%">
+  </a>
+  <a href="https://github.com/jorgeflmendes?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeflmendes&amp;theme=transparent" alt="Language distribution by commits" width="49%">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Dynamic language breakdown based on public GitHub repository and commit metadata.</sub>
+</p>
 ## Current Focus
 
 - Dependable and adversarial distributed protocols
