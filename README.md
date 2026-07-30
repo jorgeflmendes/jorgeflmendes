@@ -23,6 +23,8 @@ machine learning, and systems security.
   reproducible football forecasting framework with strict walk-forward
   validation, engineered pre-match features, calibrated multiclass models, and
   Monte Carlo tournament simulation.
+  **Result:** Correctly forecast the eventual champion and runner-up using only
+  pre-tournament data and the group-stage draw.
 - **[DepChain](https://github.com/jorgeflmendes/depchain)** — permissioned BFT
   blockchain with HotStuff-inspired consensus, authenticated networking, EVM
   execution, persistence, and adversarial integration tests.
