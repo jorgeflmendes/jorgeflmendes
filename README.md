@@ -11,9 +11,6 @@ I am pursuing an MSc in Computer Science and Engineering at **Instituto
 Superior Técnico, University of Lisbon**, with a focus on cybersecurity,
 machine learning, and systems security.
 
-> Dependable systems, security, and applied intelligence — from consensus
-> protocols to local-first software and leakage-aware machine learning.
-
 ## Featured Projects
 
 - **[OpenDraft](https://github.com/jorgeflmendes/opendraft)** — local-first
@@ -71,18 +68,11 @@ machine learning, and systems security.
 
 ## GitHub Language Overview
 
-<p align="center">
-  <a href="https://github.com/jorgeflmendes?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeflmendes&amp;theme=transparent" alt="Language distribution by repository" width="49%">
-  </a>
-  <a href="https://github.com/jorgeflmendes?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeflmendes&amp;theme=transparent" alt="Language distribution by commits" width="49%">
-  </a>
-</p>
+| Languages by repository | Languages by commits |
+| --- | --- |
+| [![Language distribution by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeflmendes&theme=transparent)](https://github.com/jorgeflmendes?tab=repositories) | [![Language distribution by commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgeflmendes&theme=transparent)](https://github.com/jorgeflmendes?tab=repositories) |
 
-<p align="center">
-  <sub>Dynamic language breakdown based on public GitHub repository and commit metadata.</sub>
-</p>
+_Dynamic language breakdown based on public GitHub repository and commit metadata._
 
 ## Current Focus
 
