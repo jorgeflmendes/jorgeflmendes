@@ -1,10 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18181b&height=180&section=header&text=jorgeflmendes%40github&fontSize=38&fontColor=22c55e&fontAlignY=38&desc=MSc%20CS%20%7C%20security%2C%20systems%2C%20and%20AI&descSize=17&descAlignY=61&animation=fadeIn" alt="jorgeflmendes@github" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=%24+whoami;jorgeflmendes+%E2%80%94+systems%2C+security+%26+AI;%24+status;building+dependable+software_" alt="Terminal-style introduction" />
-  </a>
-  <br />
+  <img src="./assets/terminal-header.svg" alt="Animated terminal introducing Jorge Filipe Mendes" width="100%" />
   <br />
   <a href="https://github.com/jorgeflmendes?tab=followers"><img src="https://img.shields.io/github/followers/jorgeflmendes?style=for-the-badge&logo=github&label=followers&color=09090b&labelColor=166534" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=jorgeflmendes&style=for-the-badge&color=09090b&label=profile+views" alt="Profile views" />
@@ -12,66 +7,25 @@
 
 ## ~/about
 
-I am an MSc student in Computer Science and Engineering at Instituto Superior Técnico, University of Lisbon. I work at the intersection of dependable systems, cybersecurity, and applied machine learning, especially where adversarial behaviour, coordination, and reliable evaluation matter.
+I design and build dependable software across distributed systems, cybersecurity, and applied machine learning. I am completing an MSc in Computer Science and Engineering at Instituto Superior Técnico, University of Lisbon, with an emphasis on adversarial behaviour, coordination, and rigorous evaluation.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Building</h3>
-      <ul>
-        <li>Distributed protocols and coordination services</li>
-        <li>Local-first developer tools and compilers</li>
-        <li>ML and simulation pipelines with rigorous evaluation</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Exploring</h3>
-      <ul>
-        <li>Systems and application security</li>
-        <li>Multi-agent reasoning and evaluation</li>
-        <li>Privacy-conscious, resilient software</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <code>failure-aware systems</code> · <code>security engineering</code> · <code>local-first tools</code> · <code>reproducible ML</code> · <code>multi-agent systems</code>
+</p>
 
 ## ~/selected-work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jorgeflmendes/depchain">DepChain</a></h3>
-      Permissioned BFT blockchain with HotStuff-inspired consensus, authenticated networking, EVM execution, persistence, and adversarial integration tests.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jorgeflmendes/duomon">DuoMon</a></h3>
-      Cooperative multi-agent controller built around structured intent exchange, CTDE training, benchmarking, and replay analysis.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jorgeflmendes/OpenDraft">OpenDraft</a></h3>
-      Local-first LaTeX workspace with in-browser WebAssembly compilation, structured editing, persistence, and integrated PDF review.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jorgeflmendes/culinary-authorship-ensemble">Culinary Authorship Ensemble</a></h3>
-      Heterogeneous NLP ensemble for authorship attribution, with calibrated stacking, error analysis, and reported 96.3% cross-validation accuracy.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jorgeflmendes/quintropy">Quintropy</a></h3>
-      Reproducible causal Bayesian Wordle solver with leakage-safe walk-forward evaluation and private in-browser inference.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jorgeflmendes/hackergram-web-security-lab">Hackergram Web Security Lab</a></h3>
-      Reproducible offensive and defensive web-security lab covering SQLi, XSS, CSRF, SSRF, XXE, NoSQL injection, LLM-mediated attacks, and hardened retesting.
-    </td>
-  </tr>
-</table>
+| Project | Engineering focus |
+| :--- | :--- |
+| **[DepChain](https://github.com/jorgeflmendes/depchain)**<br><code>Java</code> · <code>BFT</code> · <code>EVM</code> | Permissioned blockchain with HotStuff-inspired consensus, authenticated networking, EVM execution, persistence, and adversarial integration tests. |
+| **[DuoMon](https://github.com/jorgeflmendes/duomon)**<br><code>Python</code> · <code>MARL</code> · <code>CTDE</code> | Cooperative multi-agent controller with structured intent exchange, CTDE training, benchmarking, and replay analysis. |
+| **[OpenDraft](https://github.com/jorgeflmendes/OpenDraft)**<br><code>TypeScript</code> · <code>React</code> · <code>WebAssembly</code> | Local-first LaTeX workspace with in-browser compilation, structured editing, persistence, and integrated PDF review. |
+| **[Culinary Authorship Ensemble](https://github.com/jorgeflmendes/culinary-authorship-ensemble)**<br><code>Python</code> · <code>NLP</code> · <code>Ensembles</code> | Authorship-attribution ensemble with calibrated stacking, error analysis, and reported 96.3% cross-validation accuracy. |
+| **[Quintropy](https://github.com/jorgeflmendes/quintropy)**<br><code>Python</code> · <code>Causal inference</code> · <code>Bayesian ML</code> | Causal Bayesian Wordle solver with leakage-safe walk-forward evaluation and private in-browser inference. |
+| **[Hackergram Web Security Lab](https://github.com/jorgeflmendes/hackergram-web-security-lab)**<br><code>Python</code> · <code>Web security</code> · <code>LLM security</code> | Reproducible offensive and defensive lab covering injection, request forgery, LLM-mediated attacks, and hardened retesting. |
 
 <details>
-  <summary><b>More projects and security labs</b></summary>
+  <summary><b>$ ls ~/more-projects</b></summary>
   <br />
 
   - [UDF Compiler](https://github.com/jorgeflmendes/UDF-Compiler) - C++20 compiler with typed ASTs, semantic analysis, and postfix code generation.
