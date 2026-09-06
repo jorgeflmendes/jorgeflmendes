@@ -53,8 +53,8 @@ I design and build dependable software across distributed systems, cybersecurity
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,cpp,c,rust,ts,react,nodejs,wasm,docker,linux,git,postgres,mongodb,pytorch,sklearn&perline=8&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,cpp,c,rust,ts,react,nodejs,wasm,docker,linux,git,postgres,mongodb,pytorch,sklearn&perline=8&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cpython%2Ccpp%2Cc%2Crust%2Cts%2Creact%2Cnodejs%2Cwasm%2Cdocker%2Clinux%2Cgit%2Cpostgres%2Cmongodb%2Cpytorch%2Csklearn&perline=8&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cpython%2Ccpp%2Cc%2Crust%2Cts%2Creact%2Cnodejs%2Cwasm%2Cdocker%2Clinux%2Cgit%2Cpostgres%2Cmongodb%2Cpytorch%2Csklearn&perline=8&theme=light" />
     <img src="https://skillicons.dev/icons?i=java,python,cpp,c,rust,ts,react,nodejs,wasm,docker,linux,git,postgres,mongodb,pytorch,sklearn&perline=8&theme=light" alt="Java, Python, C++, C, Rust, TypeScript, React, Node.js, WebAssembly, Docker, Linux, Git, PostgreSQL, MongoDB, PyTorch, and scikit-learn" />
   </picture>
 </div>
