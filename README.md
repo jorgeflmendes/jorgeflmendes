@@ -1,8 +1,22 @@
 <div align="center">
-  <img src="./assets/terminal-header.svg" alt="Animated terminal introducing Jorge Filipe Mendes" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-header.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-header-light.svg" />
+    <img src="./assets/terminal-header-light.svg" alt="Animated terminal introducing Jorge Filipe Mendes" width="100%" />
+  </picture>
   <br />
-  <a href="https://github.com/jorgeflmendes?tab=followers"><img src="https://img.shields.io/github/followers/jorgeflmendes?style=for-the-badge&logo=github&label=followers&color=09090b&labelColor=166534" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jorgeflmendes&style=for-the-badge&color=09090b&label=profile+views" alt="Profile views" />
+  <a href="https://github.com/jorgeflmendes?tab=followers">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/jorgeflmendes?style=for-the-badge&logo=github&color=4493f8&labelColor=555" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/jorgeflmendes?style=for-the-badge&logo=github&color=24292f&labelColor=555" />
+      <img src="https://img.shields.io/github/followers/jorgeflmendes?style=for-the-badge&logo=github&color=24292f&labelColor=555" alt="GitHub followers" />
+    </picture>
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jorgeflmendes&style=for-the-badge&label=profile+views&color=4493f8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jorgeflmendes&style=for-the-badge&label=profile+views&color=24292f" />
+    <img src="https://komarev.com/ghpvc/?username=jorgeflmendes&style=for-the-badge&label=profile+views&color=24292f" alt="Profile views" />
+  </picture>
 </div>
 
 ## ~/about
@@ -38,14 +52,28 @@ I design and build dependable software across distributed systems, cybersecurity
 ## ~/toolkit
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,rust,ts,react,nodejs,wasm,docker,linux,git,postgres,mongodb,pytorch,sklearn&perline=8" alt="Java, Python, C++, C, Rust, TypeScript, React, Node.js, WebAssembly, Docker, Linux, Git, PostgreSQL, MongoDB, PyTorch, and scikit-learn" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,cpp,c,rust,ts,react,nodejs,wasm,docker,linux,git,postgres,mongodb,pytorch,sklearn&perline=8&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,cpp,c,rust,ts,react,nodejs,wasm,docker,linux,git,postgres,mongodb,pytorch,sklearn&perline=8&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,rust,ts,react,nodejs,wasm,docker,linux,git,postgres,mongodb,pytorch,sklearn&perline=8&theme=light" alt="Java, Python, C++, C, Rust, TypeScript, React, Node.js, WebAssembly, Docker, Linux, Git, PostgreSQL, MongoDB, PyTorch, and scikit-learn" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://jorgeflmendes.itch.io/"><img src="https://img.shields.io/badge/itch.io-09090b?style=for-the-badge&logo=itch.io&logoColor=22c55e" alt="itch.io" /></a>
-  <a href="https://github.com/jorgeflmendes"><img src="https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=22c55e" alt="GitHub" /></a>
+  <a href="https://jorgeflmendes.itch.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/itch.io-4493f8?style=for-the-badge&logo=itch.io&logoColor=ffffff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/itch.io-24292f?style=for-the-badge&logo=itch.io&logoColor=0969da" />
+      <img src="https://img.shields.io/badge/itch.io-24292f?style=for-the-badge&logo=itch.io&logoColor=0969da" alt="itch.io" />
+    </picture>
+  </a>
+  <a href="https://github.com/jorgeflmendes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-4493f8?style=for-the-badge&logo=github&logoColor=ffffff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=0969da" />
+      <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=0969da" alt="GitHub" />
+    </picture>
+  </a>
 </div>
