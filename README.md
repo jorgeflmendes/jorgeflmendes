@@ -2,53 +2,56 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-header.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-header-light.svg" />
-    <img src="./assets/terminal-header-light.svg" alt="Animated terminal introducing Jorge Filipe Mendes" width="100%" />
+    <img src="./assets/terminal-header-light.svg" alt="Animated terminal introducing Jorge Filipe Lamas Mendes" width="100%" />
   </picture>
   <br />
   <a href="https://github.com/jorgeflmendes?tab=followers">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/jorgeflmendes?style=for-the-badge&logo=github&color=4493f8&labelColor=555" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/jorgeflmendes?style=for-the-badge&logo=github&color=24292f&labelColor=555" />
-      <img src="https://img.shields.io/github/followers/jorgeflmendes?style=for-the-badge&logo=github&color=24292f&labelColor=555" alt="GitHub followers" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/jorgeflmendes?style=flat-square&logo=github&logoColor=ffffff&labelColor=555&color=6e7681" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/jorgeflmendes?style=flat-square&logo=github&logoColor=ffffff&labelColor=555&color=24292f" />
+      <img src="https://img.shields.io/github/followers/jorgeflmendes?style=flat-square&logo=github&logoColor=ffffff&labelColor=555&color=24292f" alt="GitHub followers" height="28" />
     </picture>
   </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jorgeflmendes&style=for-the-badge&label=profile+views&color=4493f8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jorgeflmendes&style=for-the-badge&label=profile+views&color=24292f" />
-    <img src="https://komarev.com/ghpvc/?username=jorgeflmendes&style=for-the-badge&label=profile+views&color=24292f" alt="Profile views" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jorgeflmendes&style=flat-square&label=profile+views&color=6e7681" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jorgeflmendes&style=flat-square&label=profile+views&color=24292f" />
+    <img src="https://komarev.com/ghpvc/?username=jorgeflmendes&style=flat-square&label=profile+views&color=24292f" alt="Profile views" height="28" />
   </picture>
 </div>
 
 ## ~/about
 
-I design and build dependable software across distributed systems, cybersecurity, and applied machine learning. I am completing an MSc in Computer Science and Engineering at Instituto Superior Técnico, University of Lisbon, with an emphasis on adversarial behaviour, coordination, and rigorous evaluation.
-
-<p align="center">
-  <code>failure-aware systems</code> · <code>security engineering</code> · <code>local-first tools</code> · <code>reproducible ML</code> · <code>multi-agent systems</code>
-</p>
+I'm finishing my MSc in Computer Science and Engineering at Instituto Superior Técnico. I enjoy building things I can test and explain, from distributed systems and security labs to machine learning experiments.
 
 ## ~/selected-work
 
-| Project | Engineering focus |
-| :--- | :--- |
-| **[DepChain](https://github.com/jorgeflmendes/depchain)**<br><code>Java</code> · <code>BFT</code> · <code>EVM</code> | Permissioned blockchain with HotStuff-inspired consensus, authenticated networking, EVM execution, persistence, and adversarial integration tests. |
-| **[DuoMon](https://github.com/jorgeflmendes/duomon)**<br><code>Python</code> · <code>MARL</code> · <code>CTDE</code> | Cooperative multi-agent controller with structured intent exchange, CTDE training, benchmarking, and replay analysis. |
-| **[VASSAGO](https://github.com/jorgeflmendes/vassago)**<br><code>Python</code> · <code>PyTorch</code> · <code>Ranking</code> | Sequential recommender with temporal attention, cold-start routing, fair full-catalog benchmarks, and reproducible CUDA measurements. |
-| **[OpenDraft](https://github.com/jorgeflmendes/OpenDraft)**<br><code>TypeScript</code> · <code>React</code> · <code>WebAssembly</code> | Local-first LaTeX workspace with in-browser compilation, structured editing, persistence, and integrated PDF review. |
-| **[Culinary Authorship Ensemble](https://github.com/jorgeflmendes/culinary-authorship-ensemble)**<br><code>Python</code> · <code>NLP</code> · <code>Ensembles</code> | Authorship-attribution ensemble with calibrated stacking, error analysis, and reported 96.3% cross-validation accuracy. |
-| **[Quintropy](https://github.com/jorgeflmendes/quintropy)**<br><code>Python</code> · <code>Causal inference</code> · <code>Bayesian ML</code> | Causal Bayesian Wordle solver with leakage-safe walk-forward evaluation and private in-browser inference. |
-| **[Hackergram Web Security Lab](https://github.com/jorgeflmendes/hackergram-web-security-lab)**<br><code>Python</code> · <code>Web security</code> · <code>LLM security</code> | Reproducible offensive and defensive lab covering injection, request forgery, LLM-mediated attacks, and hardened retesting. |
+### Machine learning & AI
+
+- [VASSAGO](https://github.com/jorgeflmendes/vassago) - temporal recommender evaluated on MovieLens-32M against matched baselines.
+- [DuoMon](https://github.com/jorgeflmendes/duomon) - two agents coordinating moves in Pokémon Showdown battles.
+- [Culinary Authorship Ensemble](https://github.com/jorgeflmendes/culinary-authorship-ensemble) - recipe author classification using stacked NLP models.
+- [Quintropy](https://github.com/jorgeflmendes/quintropy) - Bayesian Wordle solver with a playable browser version ([demo](https://jorgeflmendes.github.io/quintropy/)).
+
+### Systems & tools
+
+- [DepChain](https://github.com/jorgeflmendes/depchain) - permissioned blockchain with Byzantine fault tolerant consensus and EVM execution.
+- [OpenDraft](https://github.com/jorgeflmendes/opendraft) - LaTeX editor that compiles and saves projects in the browser ([demo](https://jorgeflmendes.github.io/opendraft/)).
+- [OpenTales](https://github.com/jorgeflmendes/opentales) - local audio production engine with a timeline language and reproducible mixing.
+
+### Security & networks
+
+- [Hackergram Web Security Lab](https://github.com/jorgeflmendes/hackergram-web-security-lab) - vulnerable and hardened web apps for testing common attacks in an isolated lab.
+- SAAR labs: [AAA](https://github.com/jorgeflmendes/tacacs-8021x-aaa-lab) · [IPSec & DMVPN](https://github.com/jorgeflmendes/ipsec-dmvpn-security-lab) · [Firewalls & DoS](https://github.com/jorgeflmendes/cisco-zbpf-firewall-dos-lab) · [BGP/MPLS](https://github.com/jorgeflmendes/bgp-mpls-l3vpn-lab) · [Container networking](https://github.com/jorgeflmendes/docker-network-containers-lab).
 
 <details>
   <summary><b>$ ls ~/more-projects</b></summary>
   <br />
 
-  - [UDF Compiler](https://github.com/jorgeflmendes/UDF-Compiler) - C++20 compiler with typed ASTs, semantic analysis, and postfix code generation.
-  - [Replicated TupleSpaces](https://github.com/jorgeflmendes/replicated-tuplespaces) - a Java/gRPC coordination service with blocking operations and quorum-coordinated distributed `take`.
-  - [World Cup Prediction ML](https://github.com/jorgeflmendes/worldcup-prediction-ml) - reproducible football forecasting with walk-forward validation, calibrated multiclass models, and Monte Carlo tournament simulation.
-  - [NLP Visual Lab](https://github.com/jorgeflmendes/nlp-visual-lab) - interactive browser lab for tracing NLP algorithms and neural-model inference step by step, built with TypeScript and WebAssembly.
-  - [Beyond Mars](https://github.com/jorgeflmendes/beyond-mars-assembly) - real-time arcade game in assembly, built around interrupts, concurrent processes, collision handling, audio, and animated media.
-  - [TACACS+ & 802.1X AAA](https://github.com/jorgeflmendes/tacacs-8021x-aaa-lab) · [IPSec & DMVPN](https://github.com/jorgeflmendes/ipsec-dmvpn-security-lab) · [Cisco ZBPF & DoS mitigation](https://github.com/jorgeflmendes/cisco-zbpf-firewall-dos-lab) · [BGP/MPLS L3VPN](https://github.com/jorgeflmendes/bgp-mpls-l3vpn-lab) · [Linux & Docker networking](https://github.com/jorgeflmendes/docker-network-containers-lab) - SAAR network-security labs covering AAA, encrypted overlays, segmentation, provider isolation, and container networking.
+  - [UDF Compiler](https://github.com/jorgeflmendes/udf-compiler) - C++20 compiler with semantic analysis and code generation.
+  - [Replicated TupleSpaces](https://github.com/jorgeflmendes/replicated-tuplespaces) - Java/gRPC tuple space with replicated operations.
+  - [World Cup Prediction ML](https://github.com/jorgeflmendes/worldcup-prediction-ml) - football forecasting and tournament simulation.
+  - [NLP Visual Lab](https://github.com/jorgeflmendes/nlp-visual-lab) - interactive browser walkthrough of NLP algorithms and models ([demo](https://jorgeflmendes.github.io/nlp-visual-lab/)).
+  - [Beyond Mars](https://github.com/jorgeflmendes/beyond-mars-assembly) - arcade game in assembly using interrupts and concurrent processes.
 </details>
 
 ## ~/toolkit
@@ -66,16 +69,9 @@ I design and build dependable software across distributed systems, cybersecurity
 <div align="center">
   <a href="https://jorgeflmendes.itch.io/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/itch.io-4493f8?style=for-the-badge&logo=itch.io&logoColor=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/itch.io-24292f?style=for-the-badge&logo=itch.io&logoColor=0969da" />
-      <img src="https://img.shields.io/badge/itch.io-24292f?style=for-the-badge&logo=itch.io&logoColor=0969da" alt="itch.io" />
-    </picture>
-  </a>
-  <a href="https://github.com/jorgeflmendes">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-4493f8?style=for-the-badge&logo=github&logoColor=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=0969da" />
-      <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=0969da" alt="GitHub" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/itch.io-games-6e7681?style=flat-square&logo=itch.io&logoColor=ffffff&labelColor=555" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/itch.io-games-24292f?style=flat-square&logo=itch.io&logoColor=ffffff&labelColor=555" />
+      <img src="https://img.shields.io/badge/itch.io-games-24292f?style=flat-square&logo=itch.io&logoColor=ffffff&labelColor=555" alt="itch.io games" height="28" />
     </picture>
   </a>
 </div>
