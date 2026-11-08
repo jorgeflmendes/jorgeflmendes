@@ -27,7 +27,6 @@ I'm finishing my MSc in Computer Science and Engineering at Instituto Superior T
 
 ### Machine learning & AI
 
-- [VASSAGO](https://github.com/jorgeflmendes/vassago) - temporal recommender evaluated on MovieLens-32M against matched baselines.
 - [DuoMon](https://github.com/jorgeflmendes/duomon) - two agents coordinating moves in Pokémon Showdown battles.
 - [Culinary Authorship Ensemble](https://github.com/jorgeflmendes/culinary-authorship-ensemble) - recipe author classification using stacked NLP models.
 - [Quintropy](https://github.com/jorgeflmendes/quintropy) - Bayesian Wordle solver with a playable browser version ([demo](https://jorgeflmendes.github.io/quintropy/)).
