@@ -21,7 +21,7 @@
 
 ## ~/about
 
-I'm finishing my MSc in Computer Science and Engineering at Instituto Superior Técnico. I enjoy building things I can test and explain, from distributed systems and security labs to machine learning experiments.
+I'm finishing my MSc in Computer Science and Engineering at Instituto Superior Técnico.
 
 ## ~/selected-work
 
